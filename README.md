@@ -4,6 +4,10 @@ This repository contains my BI projects.
 
 ## Content : 
 
+## 1. HR Analytics Dashboard From Data and Tech Zone
+
+### Others resources 1 :
+
 https://www.youtube.com/watch?v=g0m5sEHPU-s&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=34
 
 https://www.youtube.com/watch?v=0R2mGMQUMUA
@@ -14,7 +18,7 @@ https://www.youtube.com/watch?v=mdHSg-LhiiU&t=2s
 
 https://learn.microsoft.com/fr-fr/training/modules/get-started-with-power-bi/?WT.mc_id=powerbi_home_inproduct_introcard
 
-### Others resources : 
+### Others resources 2 : 
 
 https://www.youtube.com/watch?v=7WACJemR3ck
 
