@@ -1,6 +1,6 @@
 # Power BI - Many Projects
 
-This repository contains my BI projects.
+This repository contains my Power BI projects.
 
 ## Content : 
 
